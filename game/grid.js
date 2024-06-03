@@ -1,4 +1,4 @@
-var currentWidth = 20
+var currentWidth = 40
 var colorOnOver = "#b9e87c"
 var colorEven = "#77cf07"
 var colorOdd = "#6ab609"
